@@ -3,7 +3,7 @@
 Federal Institute of Brasilia.</p>
 
 <div align="center"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-neres&layout=compact&langs_count=7&theme=dark&count_private=true&include_all_commits=true"/>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeneres&layout=compact&langs_count=7&theme=dark&count_private=true&include_all_commits=true"/>   
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -19,6 +19,6 @@ Federal Institute of Brasilia.</p>
 </div><br>
  
 <div align="center" style="padding-top: 20px;"> 
-  <a href="https://instagram.com/prince-neres" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/prince.neres/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/prince-neres-244903158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
