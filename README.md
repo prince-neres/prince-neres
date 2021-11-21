@@ -2,12 +2,6 @@
 <p>My name is Prince, I'm 20 years old, I live in Brasilia, Brazil and I'm currently studying Internet Systems at 
 Federal Institute of Brasilia.</p>
 
-<div align="center"><br>
-  <a href="https://github.com/prince-neres">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prince-neres&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=0"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-neres&layout=compact&langs_count=7&theme=dark&border_radius=0"/>
-</div>
-
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
