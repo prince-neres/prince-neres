@@ -1,6 +1,6 @@
 <h3>Hello!</h3>
 <p>My name is Prince, I'm 20 years old, I live in Brasilia, Brazil and I'm currently studying Internet Systems at 
-Federal Institute of Brasilia.</p><br>
+Federal Institute of Brasilia.</p>
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
