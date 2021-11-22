@@ -1,4 +1,4 @@
-<h3>Hello!</h3>
+<h3>Hello</h3>
 <p>My name is Prince, I'm 20 years old, I live in Brasilia, Brazil and I'm currently studying Internet Systems at 
 Federal Institute of Brasilia.</p>
 
