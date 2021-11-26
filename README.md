@@ -14,7 +14,11 @@ Federal Institute of Brasilia.
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div><br>
 
-<div align="center" style="padding-top: 20px;"> 
-  <a href="https://www.instagram.com/prince.neres/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/prince-neres-244903158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center"> 
+  <a href="https://www.instagram.com/prince.neres/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=11ff00&link=https://www.instagram.com/iuricode"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prince-neres-244903158" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=11ff00&link=https://www.linkedin.com/in/iuricode"/>
+  </a>
 </div>
