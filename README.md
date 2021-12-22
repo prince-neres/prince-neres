@@ -1,4 +1,3 @@
-### Hello
 My name is Prince, I'm 20 years old, and I'm currently studying programming.
 
 <div style="display: inline_block" align="center">
