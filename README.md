@@ -1,4 +1,4 @@
-My name is Prince, I'm 20 years old, and I'm currently studying programming.
+My name is Prince, I'm 20 years old and I'm currently studying Internet Systems at the Federal Institute of Brasília.
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
