@@ -1,4 +1,4 @@
-My name is Prince, I'm 20 years old and I'm currently studying Internet Systems at the Federal Institute of Brasília.
+My name is Prince, I'm 20 years old, I'm currently studying Internet Systems at the Federal Institute of Brasília and I do web development internship at the presidency of the republic of Brazil.
 
 <div align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
