@@ -1,4 +1,8 @@
-My name is Prince, I'm 20 years old, I'm currently studying Internet Systems at the Federal Institute of Brasília and I do web development internship at the presidency of the republic of Brazil.
+<div align="left">
+  My name is <strong>Prince</strong>, I'm 20 years old, I'm currently studying <strong>Internet Systems at the Federal Institute of Brasília</strong> and I do web     development internship at the <strong>Presidency of the Republic of Brazil</strong>.
+</div>
+
+<br>
 
 <div align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,9 +25,9 @@ My name is Prince, I'm 20 years old, I'm currently studying Internet Systems at 
   
 <div align="center"> 
   <a href="https://www.instagram.com/prince.neres/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=11ff00&link=https://www.instagram.com/iuricode"/>
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=ff6f00&link=https://www.instagram.com/iuricode"/>
   </a>
   <a href="https://www.linkedin.com/in/prince-neres-244903158" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=11ff00&link=https://www.linkedin.com/in/iuricode"/>
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=ff6f00&link=https://www.linkedin.com/in/iuricode"/>
   </a>
 </div>
