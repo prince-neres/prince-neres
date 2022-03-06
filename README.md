@@ -24,10 +24,10 @@
 </br>
   
 <div align="center"> 
-  <a href="https://www.instagram.com/prince.neres/" alt="Instagram">
+  <a href="https://www.instagram.com/prince.neres/" target="_blank" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00ffff&link=https://www.instagram.com/prince.neres"/>
   </a>
-  <a href="https://www.linkedin.com/in/prince-neres-244903158" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/prince-neres-244903158" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00ffff&link=https://www.linkedin.com/in/prince-neres-244903158/"/>
   </a>
 </div>
