@@ -25,9 +25,9 @@
   
 <div align="center"> 
   <a href="https://www.instagram.com/prince.neres/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=ff6f00&link=https://www.instagram.com/prince.neres"/>
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00ffff&link=https://www.instagram.com/prince.neres"/>
   </a>
   <a href="https://www.linkedin.com/in/prince-neres-244903158" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=ff6f00&link=https://www.linkedin.com/in/prince-neres-244903158/"/>
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00ffff&link=https://www.linkedin.com/in/prince-neres-244903158/"/>
   </a>
 </div>
