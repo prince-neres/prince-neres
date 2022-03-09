@@ -1,5 +1,5 @@
 <div align="left">
-  My name is <strong>Prince</strong>, I'm 20 years old, I'm currently studying <strong>Internet Systems at the Federal Institute of Brasília</strong> and I do web     development internship at the <strong>Presidency of the Republic of Brazil</strong>.
+  ✌️ Olá, meu nome é Prince.
 </div>
 
 <br>
