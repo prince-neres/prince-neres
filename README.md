@@ -1,5 +1,5 @@
 <div align="left">
-  ✌️ Olá, meu nome é Prince.
+  Olá, meu nome é Prince.
 </div>
 
 <br>
