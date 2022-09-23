@@ -1,6 +1,7 @@
-<div align="left">
+<h3>
   Olá, meu nome é Prince.
-  
+</h3>
+<div align="left">
   Sou um Desenvolvedor Full Stack, tenho experiência com projetos usando JavaScript, ReactJS, Python, Django e Flask.
 </div>
 
