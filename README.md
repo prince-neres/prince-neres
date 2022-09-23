@@ -2,7 +2,7 @@
   Olá, meu nome é Prince.
 </h3>
 <div align="left">
-  Sou um Desenvolvedor Full Stack, tenho experiência com projetos usando JavaScript, ReactJS, Python, Django e Flask.
+  Sou Desenvolvedor Full Stack Júnior, tenho experiência com projetos usando JavaScript, React.Js, Python, Django e Flask.
 </div>
 
 <br>
