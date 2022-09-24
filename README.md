@@ -1,8 +1,8 @@
 <h3>
-  Olá, meu nome é Prince.
+  Olá! eu sou Prince :wave:
 </h3>
 <div align="left">
-  Sou Desenvolvedor Full Stack Júnior, tenho experiência com projetos usando JavaScript, React.Js, Python, Django e Flask.
+  Sou Desenvolvedor Full Stack Júnior, tenho experiência em projetos usando tecnologias como: JavaScript, React.Js, Python, Django e Flask.
 </div>
 
 <br>
