@@ -2,11 +2,12 @@
   Olá! eu sou Prince :wave:
 </h3>
 <div>
-  Sou Desenvolvedor Web, tenho experiência em projetos usando principalmente tecnologias e linguagens de programação como: <b><i>JavaScript, React.Js, Python,       Django, Flask, PostgreSQL e MongoDB.</i></b>
+ㅤSou Desenvolvedor Web, tenho experiência em projetos usando principalmente tecnologias e linguagens de programação como: <b><i>JavaScript, React.Js, Python,            Django, Flask, PostgreSQL e MongoDB.</i></b>
 </div>
 
-<br>
+<hr>
 
+<h3 align="center"><i>Stacks:</i></h3>
 <div align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
