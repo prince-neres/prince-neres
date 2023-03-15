@@ -28,3 +28,12 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="Docker" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
 </div>
+
+<hr>
+
+<div align="center">
+<h3 align="center">Visitantes:</h3>
+  
+![Visitor Count](https://profile-counter.glitch.me/prince-neres/count.svg)
+
+</div>
