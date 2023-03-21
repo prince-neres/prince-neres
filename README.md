@@ -1,5 +1,6 @@
 <h3>
-  Olá! eu sou Prince :wave:
+  Olá! eu sou Prince 
+<img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20" align="right"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h3>
 <div>
 ㅤSou Desenvolvedor Web, tenho experiência em projetos usando principalmente tecnologias e linguagens de programação como: <b><i>JavaScript, React.Js, Python,            Django, Flask, PostgreSQL e MongoDB.</i></b>
