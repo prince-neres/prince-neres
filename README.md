@@ -2,13 +2,14 @@
   Olá! eu sou Prince 
 <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20" align="right"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h3>
+
 <div>
-ㅤSou Desenvolvedor Web, tenho experiência em projetos usando principalmente tecnologias e linguagens de programação como: <b><i>JavaScript, React.Js, Python,            Django, Flask, PostgreSQL e MongoDB.</i></b>
+ㅤSou um desenvolvedor web, experiente em tecnologias como <i><b>Habilidades</b></i>, <i><b>React.js</b></i>, <i><b>Python</b></i>, <i><b>Django</b></i>, <i><b>Flask</b></i>, <i><b>PostgreSQL</b></i> e <i><b>MongoDB</b></i>. Já atuei em vários projetos de sucesso e estou sempre procurando maneiras de melhorar minhas habilidades e conhecimentos técnicos visando fornecer as melhores soluções.
 </div>
 
 <hr>
 
-<h3 align="center"><i>Skills:</i></h3>
+<h3 align="center"><i>Habilidades:</i></h3>
 <div align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
