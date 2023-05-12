@@ -30,3 +30,9 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="Docker" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
 </div>
+
+<div align="center">
+<h3><i>Status:</i></h3>
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-neres&theme=dark&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-neres&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+</div>
