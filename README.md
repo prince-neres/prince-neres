@@ -31,6 +31,8 @@
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
 </div>
 
+<hr>
+
 <div align="center">
 <h3><i>Status:</i></h3>
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-neres&theme=dark&hide_border=true"/>
