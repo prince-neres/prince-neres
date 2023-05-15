@@ -1,6 +1,7 @@
-<h3>
+<h3 align="left">
   Olá! eu sou Prince 
-<img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20" align="right"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20" align="right">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img align="right" src="https://camo.githubusercontent.com/3e55b67aab722715de8b3517476e420c3f9cf26fcd1be26ae775fc3b9571e7e7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65612f66662f61322f65616666613239666638396562316232646438653436396135653161636636662e676966" width="100">
 </h3>
 
 <div>
