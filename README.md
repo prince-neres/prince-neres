@@ -44,16 +44,16 @@
 
 <div align="center">
 <h3><i>Links:</i></h3>
-<a href="https://www.linkedin.com/in/prince-neres">
+<a href="https://www.linkedin.com/in/prince-neres" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:prince84224960@gmail.com">
+<a href="mailto:prince84224960@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://wa.me/5562984224960">
+<a href="https://wa.me/5562984224960" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
-<a href="https://prince-neres.space">
+<a href="https://prince-neres.space" target="_blank">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
 </div>
