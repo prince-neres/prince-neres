@@ -38,3 +38,21 @@
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-neres&theme=dark&hide_border=true"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-neres&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </div>
+
+<hr>
+
+<div align="center">
+<h3><i>Links:</i></h3>
+<a href="https://www.linkedin.com/in/prince-neres">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:prince84224960@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://wa.me/5562984224960">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+<a href="https://prince-neres.space">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+</a>
+</div>
