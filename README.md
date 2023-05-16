@@ -37,7 +37,7 @@
 <div align="center">
 <h3><i>Status:</i></h3>
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-neres&theme=dark&hide_border=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-neres&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prince-neres&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </div>
 
 <hr>
