@@ -52,7 +52,7 @@
 <a href="https://wa.me/5562984224960" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
-<a href="https://prince-neres.space" target="_blank">
+<a href="https://princeneres.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
 </div>
