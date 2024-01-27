@@ -1,6 +1,6 @@
 <h3 align="left">
   Olá! eu sou Prince 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img align="right" src="https://camo.githubusercontent.com/3e55b67aab722715de8b3517476e420c3f9cf26fcd1be26ae775fc3b9571e7e7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65612f66662f61322f65616666613239666638396562316232646438653436396135653161636636662e676966" width="100">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h3>
 
 <div>
@@ -18,7 +18,6 @@
   <img align="center" alt="Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
   <img align="center" alt="React.Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="center" alt="Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
-  <img align="center" alt="Node.Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="Flask" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
   <img align="center" alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
@@ -33,13 +32,14 @@
 
 <hr>
 
-<!-- <div align="center">
+<div align="center">
 <h3><i>Status:</i></h3>
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-neres&theme=dark&hide_border=true"/>
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prince- 
 neres&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </div>
-<hr> -->
+
+<hr>
 
 <div align="center">
 <h3><i>Links:</i></h3>
