@@ -7,8 +7,8 @@
 ㅤㅤI am a software developer with experience in technologies such as <i><b>React.js</b></i>, <i><b>Django</b></i>, <i><b>Flask</b></i>, and <i><b>Liferay</b></i>. I have contributed to several successful projects and continuously strive to enhance my skills and technical knowledge to deliver optimal solutions.
 </div>
 
-<h3 align="center"><i>Skills:</i></h3>
-<div align="center">
+<h3 align=""><i>Skills:</i></h3>
+<div align="">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
   <img align="center" alt="React.Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
@@ -23,8 +23,8 @@
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
 </div>
 
-<div align="center">
 <h3><i>Links:</i></h3>
+<div align="">
 <a href="https://www.linkedin.com/in/prince-neres" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
