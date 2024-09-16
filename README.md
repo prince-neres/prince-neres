@@ -34,7 +34,7 @@
 <a href="https://wa.me/5561999675295" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
-<a href="https://princeneres.netlify.app" target="_blank">
+<a href="https://princeneres.dev" target="_blank">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
 </div>
