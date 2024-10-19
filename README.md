@@ -10,7 +10,7 @@
 </div>
 
 <div>
-ㅤㅤI am a software developer with experience in technologies such as <i><b>React.js</b></i>, <i><b>Django</b></i>, <i><b>Flask</b></i>, and <i><b>Liferay</b></i>. I have contributed to several successful projects and continuously strive to enhance my skills and technical knowledge to deliver optimal solutions.
+ㅤㅤI am a software developer with experience in technologies such as <i><b>JavaScript</b></i>, <i><b>Python</b></i>, <i><b>Java</b></i>, and <i><b>Liferay</b></i>. I have contributed to several successful projects and continuously strive to enhance my skills and technical knowledge to deliver optimal solutions.
 </div>
 
 <h3 align=""><i>Skills:</i></h3>
