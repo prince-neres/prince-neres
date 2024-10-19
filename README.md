@@ -1,7 +1,13 @@
-<h3 align="left">
-  Hello! I'm Prince
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</h3>
+<div>
+  <h3 align="left">
+    Hello! I'm Prince
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+  </h3>
+  
+  <img align="right"
+   src="https://media.licdn.com/dms/image/v2/C5622AQGjCXPH2I1zIA/feedshare-shrink_800/feedshare-shrink_800/0/1633380897662?e=1732147200&v=beta&t=nx2f7Ap2c8lmM4UY2MDCVSJPxs0RhRh3AmMpuPCO9f0"
+  />
+</div>
 
 <div>
 ㅤㅤI am a software developer with experience in technologies such as <i><b>React.js</b></i>, <i><b>Django</b></i>, <i><b>Flask</b></i>, and <i><b>Liferay</b></i>. I have contributed to several successful projects and continuously strive to enhance my skills and technical knowledge to deliver optimal solutions.
