@@ -5,7 +5,7 @@
   </h3>
   
   <img align="right"
-   src="https://media.licdn.com/dms/image/v2/C5622AQGjCXPH2I1zIA/feedshare-shrink_800/feedshare-shrink_800/0/1633380897662?e=1732147200&v=beta&t=nx2f7Ap2c8lmM4UY2MDCVSJPxs0RhRh3AmMpuPCO9f0"
+   src="https://media.tenor.com/ko4tpRh2FTcAAAAj/mr-free-super-tux.gif"
   />
 </div>
 
